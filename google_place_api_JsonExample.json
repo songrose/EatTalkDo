@@ -1,0 +1,114 @@
+
+{
+  'content-type': 'application/json; charset=UTF-8',
+  date: 'Wed, 05 Aug 2020 20:10:29 GMT',
+  expires: 'Wed, 05 Aug 2020 20:15:29 GMT',
+  'cache-control': 'public, max-age=300',
+  server: 'scaffolding on HTTPServer2',
+  'x-xss-protection': '0',
+  'x-frame-options': 'SAMEORIGIN',
+  'server-timing': 'gfet4t7; dur=792',
+  'alt-svc': 'h3-29=":443"; ma=2592000,h3-27=":443"; ma=2592000,h3-T050=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"',
+  'accept-ranges': 'none',
+  vary: 'Accept-Language,Accept-Encoding',
+  'transfer-encoding': 'chunked'
+}
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2297605,
+               "lng" : -123.0049294
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.23094072989272,
+                  "lng" : -123.0038061201073
+               },
+               "southwest" : {
+                  "lat" : 49.22824107010727,
+                  "lng" : -123.0065057798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "name" : "Han Ju Tofu Hot Pot",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113230806741435379170\"\u003eGalaxy S2\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAASV5ldMw1g54vhOfK62HoKPIGVpXRgDPZqodCs3f0vDrfLLbBxoK7NuiFBwk6qu9B47pGfykLVRkc5AVbT0rRcEl6yDPVKDU3jKuFOhZwplzbeQeR-JUzUiuRo-Asio6CEhCv9d56MlxMl_fxVHDaij-nGhRt3UsY_BgEjGhdACvErc0WCFZReg",
+               "width" : 2268
+            }
+         ],
+         "place_id" : "ChIJGbDEHPZ2hlQRU_e5rw16Y6c",
+         "plus_code" : {
+            "compound_code" : "6XHW+W2 Burnaby, British Columbia",
+            "global_code" : "84XR6XHW+W2"
+         },
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "ChIJGbDEHPZ2hlQRU_e5rw16Y6c",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 173,
+         "vicinity" : "1218-4500 Kingsway, Burnaby"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2312188,
+               "lng" : -123.0067506
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.23241707989272,
+                  "lng" : -123.0055224701073
+               },
+               "southwest" : {
+                  "lat" : 49.22971742010728,
+                  "lng" : -123.0082221298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "name" : "Hon Sushi",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108168467309480945513\"\u003eHon Sushi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdzdLNU7rckUDJdl2CzoOk8JmQVL4GVt03SrZnnty52RgU9ZdZSCjW5D8NsY7FoAY5Ffcrq3V_bgfulcGEZFMpAlFP2KFXBE8hpkdrZO5BiZJl5rN8jQE5NVnVSvDdj9CEhCnC3oFpVVDehLmj-HltSgEGhQJ6dZN1dbNoJOUSvIKxo4TmVBsrA",
+               "width" : 3888
+            }
+         ],
+         "place_id" : "ChIJXb0QevZ2hlQRVzUZDnuznAA",
+         "plus_code" : {
+            "compound_code" : "6XJV+F7 Burnaby, British Columbia",
+            "global_code" : "84XR6XJV+F7"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJXb0QevZ2hlQRVzUZDnuznAA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 488,
+         "vicinity" : "201-4361 Kingsway, Burnaby"
+      }
+   ],
+   "status" : "OK"
+}
+
