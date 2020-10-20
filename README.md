@@ -1,2 +1,2 @@
-# EatTalkDo
-yes
+# Yoju!
+Tinder for Restaurants
